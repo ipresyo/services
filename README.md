@@ -69,3 +69,9 @@
   <li><strong>Responsive Design:</strong> Our websites look and perform flawlessly on all devices.</li>
   <li><strong>Ongoing Support:</strong> We provide continuous support to ensure your website remains secure, updated, and performing at its best.</li>
 </ul>
+
+<p align="center">
+  <a href="https://github.com/ipresyo" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="SEO Agency Philippines">
+  </a>
+</p>
