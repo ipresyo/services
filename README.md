@@ -1,7 +1,7 @@
 <h1 align="center">Our Services</h1>
 <p align="center">We offer a full range of professional services tailored to your unique needs. Whether you need expert advice, hands-on support, or creative solutions, our team is dedicated to delivering excellence every step of the way. We take pride in providing personalized service, meeting deadlines, and delivering results that go beyond expectations. From start to finish, we’re here to help you succeed.</p>
 
-<h2><a href="https://github.com/ipresyo/seo/">SEO Services</a></h2>
+<h2><a href="https://github.com/ipresyo/">SEO Services</a></h2>
 
 <p>In today's competitive digital world, appearing at the top of search engine results is crucial. Our expert SEO services are designed to help your website rank higher, attract more traffic, and convert visitors into customers.</p>
 
